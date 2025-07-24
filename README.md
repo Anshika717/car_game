@@ -1,6 +1,29 @@
-Hello Developers!! :)<br>
-We all might have played a car game on our Keypads though outdated now!!<br>
-Here is a HTML, CSS, JavaScript version of the game!!<br>
-You can control your car using arrow keys or 'A','W','S','D' keys. Make sure not to crash with enemy cars and increase your score!!
-Enjoy the game by cloning it to your device :D<br>
-Advised to use on Laptop or PC
+# 🚗 Car Racing Game
+
+A fun, browser-based **2D car racing game** built using **HTML, CSS, and JavaScript**. Avoid enemy cars, stay within the road boundaries, and test your reflexes!
+
+---
+
+## 🎮 Features
+
+- 🎯 Start button to begin the race
+- 🧠 Arrow key controls (`↑ ↓ ← →`)
+- ⛔ Collision detection with enemy cars
+- 🛑 Road boundary restrictions
+- 🏁 Increasing difficulty with moving obstacles
+- 🎨 Smooth animations using CSS
+
+---
+
+## 📸 Screenshot
+
+![Game Screenshot](./screenshot.png)
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repo:**
+
+```bash
+git clone https://github.com/yourusername/car-racing-game.git
