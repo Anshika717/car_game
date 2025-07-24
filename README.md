@@ -15,11 +15,6 @@ A fun, browser-based **2D car racing game** built using **HTML, CSS, and JavaScr
 
 ---
 
-## 📸 Screenshot
-
-![Game Screenshot](./screenshot.png)
-
----
 
 ## 🚀 How to Run Locally
 
